@@ -1,10 +1,10 @@
 # Simple-Ball-Animation
 This project demonstrates a simple bouncing ball animation using HTML and CSS. The ball changes color whenever it hits the ground.
 
-## Demo
+# Demo
 ![Video Demo](https://github.com/spl3ndid/Simple-Ball-Animation/blob/main/demo.gif)
 
-## Explanation
+# Explanation
 
 ### HTML Structure
 - The HTML structure consists of a div container that holds another div for the ball. The container is styled to be centered on the page and provides a boundary for the ball to bounce within.
